@@ -22,3 +22,5 @@ alias sl=ls # often screw this up
 
 alias afind='ack-grep -il'
 
+alias xn1='xargs -n -1'
+alias xnv='xargs -n -1 -I{}'
